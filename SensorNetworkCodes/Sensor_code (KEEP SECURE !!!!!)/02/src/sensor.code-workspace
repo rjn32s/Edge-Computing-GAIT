@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:/Project_Rajan_1_/sensor"
+		},
+		{
+			"name": "01",
+			"path": "../../01"
+		},
+		{
+			"name": "02",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

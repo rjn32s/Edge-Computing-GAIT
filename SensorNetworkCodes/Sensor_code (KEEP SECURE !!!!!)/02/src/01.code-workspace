@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../01"
+		},
+		{
+			"name": "test_esp",
+			"path": "../../test_esp"
+		},
+		{
+			"name": "02",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
